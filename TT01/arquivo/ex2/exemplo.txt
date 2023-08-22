@@ -1,0 +1,5 @@
+teste
+algoritmo
+palavra
+2
+false
